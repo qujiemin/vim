@@ -488,8 +488,8 @@ function! s:configure_base_settings()
 
 	set number
 
-	let g:username="Jerry Zhou"
-	let g:email="uulinux@gmail.com"
+	let g:username="Qujiemin"
+	let g:email="qujiemin@lixiang.com"
 endfunction
 " ------------------------------------------------------------------------------
 
